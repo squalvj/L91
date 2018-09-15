@@ -1,0 +1,1 @@
+*,:after,:before{box-sizing:border-box}._flex{display:flex}._flex-wrap{flex-wrap:wrap}._just-btwn{justify-content:space-between}.col-1{width:10%;flex:1 1 auto}.col-2,.col-3{width:20%;flex:1 1 auto}.col-3{width:30%}.col-4,.col-5{width:40%;flex:1 1 auto}.col-5{width:50%}.wrapper-header .header-right{width:100%}.wrapper-header .header-left{width:10%}
