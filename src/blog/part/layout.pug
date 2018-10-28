@@ -1,0 +1,17 @@
+//- layout.pug
+doctype html
+html
+  head
+    title Level-91 Blog
+    link(rel="stylesheet" href="css/main.css")
+    meta(name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no")
+  body.bg-pattern
+    block header
+      include header
+    .content-blog.container
+      block sideNav
+        include sideNav
+      block contentArchive
+        include contentArchive
+    block footer
+      include footer
