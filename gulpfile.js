@@ -4,6 +4,7 @@ var stylus = require('gulp-stylus');
 var minifyCSS = require('gulp-csso');
 var concat = require('gulp-concat');
 var sourcemaps = require('gulp-sourcemaps');
+const babel = require('gulp-babel');
 
 gulp.task('html', function(){
   return gulp.src('src/*.pug')
@@ -21,6 +22,9 @@ gulp.task('css', function(){
 gulp.task('js', function(){
   return gulp.src('assets/js/*.js')
     .pipe(sourcemaps.init())
+    .pipe(babel({
+        presets: ['@babel/env']
+    }))
     .pipe(concat('app.min.js'))
     .pipe(sourcemaps.write())
     .pipe(gulp.dest('dist/html/js'))

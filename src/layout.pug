@@ -4,9 +4,12 @@ html
   head
     title I'm a title
     link(rel="stylesheet" href="css/main.css")
+    link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:900|Roboto|Inconsolata:400,700")
+    meta(name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no")
   body
     block header
       include part/header
-    block content
+    .content
+      block content
     block footer
       include part/footer
