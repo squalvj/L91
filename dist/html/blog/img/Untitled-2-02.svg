@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 905" style="enable-background:new 0 0 500 905;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F04665;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#4C4C4C;stroke-miterlimit:10;}
+	.st3{fill:#4C4C4C;}
+	.st4{font-family:'Inconsolata';}
+	.st5{font-size:48px;}
+	.st6{letter-spacing:1.7;}
+	.st7{font-family:'MaisonNeue-Bold';}
+	.st8{font-size:36px;}
+	.st9{letter-spacing:1;}
+	.st10{fill:#A39D9E;}
+	.st11{display:none;}
+	.st12{display:inline;fill:#A39D9E;}
+	.st13{font-size:14px;}
+	.st14{display:none;fill:none;stroke:#4C4C4C;stroke-miterlimit:10;}
+	.st15{fill:none;}
+</style>
+<image style="overflow:visible;" width="2560" height="1040" xlink:href="E7B18CBF.jpg"  transform="matrix(1 0 0 1 -1968 -125)">
+</image>
+<text transform="matrix(0.583 0 0 0.583 378.5 50.8496)" class="st3 st4 st5 st6" style="text-decoration: underline;">blog</text>
+<g>
+	<polygon class="st0" points="75.5,58 75.5,26.5 90.3,26.5 90.3,43.8 97.7,43.8 97.7,58 	"/>
+	<polygon class="st0" points="92.9,58 92.9,26.5 115.1,26.5 115.1,40.7 114.8,40.7 114.8,43.8 115.1,43.8 115.1,58 	"/>
+	<polygon class="st0" points="119.2,58 106,26.5 122.3,26.5 124.4,32 126.5,26.5 142.8,26.5 129.6,58 	"/>
+	<polygon class="st0" points="133.9,58 133.9,26.5 156.1,26.5 156.1,40.7 155.8,40.7 155.8,43.8 156.1,43.8 156.1,58 	"/>
+	<polygon class="st0" points="151.8,58 151.8,26.5 166.5,26.5 166.5,43.8 174,43.8 174,58 	"/>
+	<path class="st0" d="M171.7,58l2.3-9.7c-2.7-2.2-4.6-5.6-4.6-9.9c0-8,6.5-12.3,12.9-12.3c7.6,0,13.5,5.4,13.5,12.3
+		c0,5.2-1.7,7.9-4.4,11.5l-0.1,0.1l-6.7,7.9H171.7z"/>
+	<polygon class="st0" points="193.6,58 193.6,47 190,49.4 190,32.8 199.7,26.5 208.4,26.5 208.4,58 	"/>
+	<path class="st1" d="M85.4,48.8h7.4v4.3H80.4V31.5h4.9V48.8z"/>
+	<path class="st1" d="M110.2,35.8h-7.4v4.3h7.1v4.3h-7.1v4.4h7.4v4.3H97.9V31.5h12.4V35.8z"/>
+	<path class="st1" d="M113.4,31.5h5.6l5.5,14.2l5.5-14.2h5.6l-9.1,21.6h-3.9L113.4,31.5z"/>
+	<path class="st1" d="M151.2,35.8h-7.4v4.3h7.1v4.3h-7.1v4.4h7.4v4.3h-12.4V31.5h12.4V35.8z"/>
+	<path class="st1" d="M161.6,48.8h7.4v4.3h-12.4V31.5h4.9V48.8z"/>
+	<path class="st1" d="M182.8,45.7c0,0-0.6,0.3-1.5,0.3c-3,0-6.9-2.5-6.9-7.6c0-5.1,4.1-7.3,8-7.3c4.8,0,8.6,3.2,8.6,7.3
+		c0,3.8-1.2,5.6-3.4,8.6l-5.1,6.1h-6.1L182.8,45.7z M182.6,35.1c-1.9,0-3.3,1.4-3.3,3.3c0,1.9,1.5,3.4,3.3,3.4
+		c1.8,0,3.3-1.4,3.3-3.4C185.8,36.5,184.5,35.1,182.6,35.1z"/>
+	<path class="st1" d="M195,35.4l6.2-4h2.3v21.6h-4.9V38l-3.6,2.3V35.4z"/>
+	<rect x="61" y="26.6" class="st0" width="12" height="12"/>
+	<rect x="67" y="40.8" class="st0" width="6" height="6"/>
+	<rect x="63.7" y="49.5" class="st0" width="3.3" height="3.3"/>
+	<rect x="67" y="56.1" class="st0" width="1.6" height="1.6"/>
+</g>
+<text transform="matrix(1 0 0 1 60 174)" class="st3 st7 st8 st9">React Redux</text>
+<g>
+	<path class="st10" d="M75.8,194.5c-0.2-0.8-0.9-1.4-1.7-1.4c-0.2,0-0.3,0.2-0.3,0.3s0.2,0.3,0.3,0.3c0.6,0,1,0.5,1,1
+		c0,0.6-0.5,1-1,1c-0.2,0-0.3,0.2-0.3,0.3s0.2,0.3,0.3,0.3c0.8,0,1.5-0.6,1.7-1.4h4.5v3.1H61.7v-3.1h4.8h1c0.2,0,0.3-0.2,0.3-0.3
+		s-0.2-0.3-0.3-0.3h-0.6c0.1-0.4,0.5-0.7,1-0.7c0.6,0,1,0.5,1,1c0,0.6-0.5,1-1,1c-0.2,0-0.3,0.2-0.3,0.3s0.2,0.3,0.3,0.3
+		c1,0,1.7-0.8,1.7-1.7c0-1-0.8-1.7-1.7-1.7c-0.8,0-1.5,0.6-1.7,1.4H61v4.5v13.8h20V199v-4.5H75.8z M80.3,212.1H61.7V199h18.6V212.1z
+		"/>
+	<path class="st10" d="M70,193.8c0.6,0,1,0.5,1,1c0,0.6-0.5,1-1,1c-0.2,0-0.3,0.2-0.3,0.3s0.2,0.3,0.3,0.3c1,0,1.7-0.8,1.7-1.7
+		c0-1-0.8-1.7-1.7-1.7c-0.2,0-0.3,0.2-0.3,0.3S69.8,193.8,70,193.8z"/>
+	<path class="st10" d="M72,193.8c0.6,0,1,0.5,1,1c0,0.6-0.5,1-1,1c-0.2,0-0.3,0.2-0.3,0.3s0.2,0.3,0.3,0.3c1,0,1.7-0.8,1.7-1.7
+		c0-1-0.8-1.7-1.7-1.7c-0.2,0-0.3,0.2-0.3,0.3S71.8,193.8,72,193.8z"/>
+	<circle class="st10" cx="68.6" cy="201.4" r="0.3"/>
+	<circle class="st10" cx="71" cy="201.4" r="0.3"/>
+	<circle class="st10" cx="73.4" cy="201.4" r="0.3"/>
+	<circle class="st10" cx="75.8" cy="201.4" r="0.3"/>
+	<circle class="st10" cx="78.2" cy="201.4" r="0.3"/>
+	<circle class="st10" cx="63.8" cy="204.2" r="0.3"/>
+	<circle class="st10" cx="66.2" cy="204.2" r="0.3"/>
+	<circle class="st10" cx="68.6" cy="204.2" r="0.3"/>
+	<circle class="st10" cx="71" cy="204.2" r="0.3"/>
+	<circle class="st10" cx="73.4" cy="204.2" r="0.3"/>
+	<circle class="st10" cx="75.8" cy="204.2" r="0.3"/>
+	<circle class="st10" cx="78.2" cy="204.2" r="0.3"/>
+	<circle class="st10" cx="63.8" cy="206.6" r="0.3"/>
+	<circle class="st10" cx="66.2" cy="206.6" r="0.3"/>
+	<circle class="st10" cx="68.6" cy="206.6" r="0.3"/>
+	<circle class="st10" cx="71" cy="206.6" r="0.3"/>
+	<circle class="st10" cx="73.4" cy="206.6" r="0.3"/>
+	<circle class="st10" cx="75.8" cy="206.6" r="0.3"/>
+	<circle class="st10" cx="78.2" cy="206.6" r="0.3"/>
+	<circle class="st10" cx="63.8" cy="209.3" r="0.3"/>
+	<circle class="st10" cx="66.2" cy="209.3" r="0.3"/>
+	<circle class="st10" cx="68.6" cy="209.3" r="0.3"/>
+	<circle class="st10" cx="71" cy="209.3" r="0.3"/>
+	<circle class="st10" cx="73.4" cy="209.3" r="0.3"/>
+</g>
+<text transform="matrix(1 0 0 1 89 208.3335)" class="st10 st4 st13">thursday, 02 Oct, 2018</text>
+<path class="st10" d="M63.6,250h7v-7.6h-2.5v-2.5h2.5v-3.1c0-1.7,1.4-3.1,3.1-3.1H77v2.5h-2.5c-0.7,0-1.3,0.6-1.3,1.3v2.5h3.7
+	l-0.4,2.5h-3.2v7.6h5.7c1.7,0,3.1-1.4,3.1-3.1v-15.2c0-1.7-1.4-3.1-3.1-3.1H63.6c-1.7,0-3.1,1.4-3.1,3.1v15.2
+	C60.5,248.6,61.9,250,63.6,250z M61.8,231.6c0-1,0.8-1.9,1.9-1.9h15.2c1,0,1.9,0.8,1.9,1.9v15.2c0,1-0.8,1.9-1.9,1.9h-4.4v-5.1h3.1
+	l0.8-5h-3.9v-1.3h3.8v-5h-4.4c-2.4,0-4.4,2-4.4,4.4v1.9h-2.5v5h2.5v5.1h-5.8c-1,0-1.9-0.8-1.9-1.9V231.6z"/>
+<g>
+	<path class="st10" d="M89.9,228.9v21h21v-21H89.9z M109.2,248.2H91.6v-17.6h17.6V248.2z"/>
+	<path class="st10" d="M97.3,236c1.1,0,1.7,0.5,2.1,0.8l1.4-1.4c-0.9-0.9-2.1-1.4-3.6-1.4c-3,0-5.3,2.4-5.3,5.3c0,3,2.4,5.3,5.3,5.3
+		c3,0,5.1-2.1,5.1-5.2c0-0.4,0-0.6-0.1-0.9h-5v1.8h3c-0.2,0.8-0.9,2.3-3,2.3c-1.8,0-3.3-1.5-3.3-3.3S95.5,236,97.3,236z"/>
+	<path class="st10" d="M105.7,241.7h1.5v-1.5h1.5v-1.5h-1.5v-1.5h-1.5v1.5h-1.5v1.5h1.5V241.7z"/>
+</g>
+<g>
+	<g id="post-twitter_1_">
+		<path class="st10" d="M137.9,229h-16.8c-1.2,0-2.1,0.9-2.1,2.1v16.8c0,1.2,0.9,2.1,2.1,2.1h16.8c1.2,0,2.1-0.9,2.1-2.1v-16.8
+			C140,229.9,139.1,229,137.9,229z M135.5,236.7c-0.1,4.8-3.1,8.2-7.8,8.4c-1.9,0.1-3.3-0.5-4.5-1.3c1.4,0.2,3.2-0.3,4.1-1.2
+			c-1.4-0.1-2.2-0.8-2.6-2c0.4,0.1,0.8,0,1.2,0c-1.3-0.4-2.1-1.2-2.2-2.8c0.3,0.2,0.7,0.3,1.2,0.3c-0.9-0.5-1.6-2.5-0.8-3.8
+			c1.4,1.5,3,2.7,5.8,2.9c-0.7-2.9,3.3-4.5,4.8-2.5c0.7-0.1,1.3-0.4,1.8-0.6c-0.2,0.7-0.6,1.2-1.2,1.6c0.5-0.1,1.1-0.2,1.5-0.4
+			C136.5,235.8,136,236.2,135.5,236.7z"/>
+	</g>
+</g>
+<g>
+	<line class="st2" x1="0" y1="78" x2="500" y2="78"/>
+</g>
+<rect x="60" y="284" class="st15" width="380" height="651"/>
+<text transform="matrix(1 0 0 1 60 293.3149)"><tspan x="0" y="0" class="st3 st4 st13">Lorem ipsum dolor sit amet, </tspan><tspan x="215.6" y="0" class="st3 st4 st13" style="text-decoration: underline;">consectetuer</tspan><tspan x="308" y="0" class="st3 st4 st13"> adipisc</tspan><tspan x="369.6" y="0" class="st3 st4 st13">-</tspan><tspan x="0" y="24" class="st3 st4 st13">ing elit, sed diam nonummy nibh euismod tincidunt </tspan><tspan x="0" y="48" class="st3 st4 st13">ut laoreet dolore magna aliquam erat volutpat. Ut </tspan><tspan x="0" y="72" class="st3 st4 st13">wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="96" class="st3 st4 st13">tation ullamcorper suscipit lobortis nisl ut </tspan><tspan x="0" y="120" class="st3 st4 st13">aliquip ex ea commodo consequat. Duis autem vel </tspan><tspan x="0" y="144" class="st3 st4 st13">eum iriure dolor in hendrerit in vulputate velit </tspan><tspan x="0" y="168" class="st3 st4 st13">esse molestie consequat, vel illum dolore eu feu</tspan><tspan x="369.6" y="168" class="st3 st4 st13">-</tspan><tspan x="0" y="192" class="st3 st4 st13">giat nulla facilisis at vero eros et accumsan et </tspan><tspan x="0" y="216" class="st3 st4 st13">iusto odio dignissim qui blandit praesent </tspan><tspan x="0" y="240" class="st3 st4 st13">luptatum zzril delenit augue duis dolore te feu</tspan><tspan x="361.9" y="240" class="st3 st4 st13">-</tspan><tspan x="0" y="264" class="st3 st4 st13">gait nulla facilisi.</tspan><tspan x="0" y="288" class="st3 st4 st13">Lorem ipsum dolor sit amet, cons ectetuer adipi</tspan><tspan x="361.9" y="288" class="st3 st4 st13">-</tspan><tspan x="0" y="312" class="st3 st4 st13">scing elit, sed diam nonummy nibh euismod tincid</tspan><tspan x="369.6" y="312" class="st3 st4 st13">-</tspan><tspan x="0" y="336" class="st3 st4 st13">unt ut laoreet dolore magna aliquam erat volut</tspan><tspan x="354.2" y="336" class="st3 st4 st13">-</tspan><tspan x="0" y="360" class="st3 st4 st13">pat. Ut wisi enim ad minim veniam, quis nostrud </tspan><tspan x="0" y="384" class="st3 st4 st13">exerci tation ullamcorper suscipit lobortis nisl </tspan><tspan x="0" y="408" class="st3 st4 st13">ut aliquip ex ea commodo consequat.</tspan><tspan x="0" y="432" class="st3 st4 st13">Lorem ipsum dolor sit amet, consectetuer adipisc</tspan><tspan x="369.6" y="432" class="st3 st4 st13">-</tspan><tspan x="0" y="456" class="st3 st4 st13">ing elit, sed diam nonummy nibh euismod tincidunt </tspan><tspan x="0" y="480" class="st3 st4 st13">ut laoreet dolore magna aliquam erat volutpat. Ut </tspan><tspan x="0" y="504" class="st3 st4 st13">wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="528" class="st3 st4 st13">tation ullamcorper suscipit lobortis nisl ut </tspan><tspan x="0" y="552" class="st3 st4 st13">aliquip ex ea commodo consequat. Duis autem vel </tspan><tspan x="0" y="576" class="st3 st4 st13">eum iriure dolor in hendrerit in vulputate velit </tspan><tspan x="0" y="600" class="st3 st4 st13">esse molestie consequat, vel illum dolore eu feu</tspan><tspan x="369.6" y="600" class="st3 st4 st13">-</tspan><tspan x="0" y="624" class="st3 st4 st13">giat nulla facilisis at vero eros et accumsan et </tspan></text>
+<g>
+	<g>
+		<path class="st10" d="M81.5,104.5c0,0-18.5,0-18.5,0l3.9-4.4c0.3-0.3,0.2-0.7-0.1-1c-0.3-0.3-0.7-0.2-1,0.1l-4.4,4.9
+			c-0.5,0.6-0.5,1.5,0,2.1l4.4,4.9c0.1,0.2,0.3,0.2,0.5,0.2c0.2,0,0.3-0.1,0.5-0.2c0.3-0.3,0.3-0.7,0.1-1l-3.9-4.4
+			c0,0,18.5,0,18.5,0c3,0,5.4,2.4,5.4,5.4s-2.4,5.4-5.4,5.4h-3.3c-0.4,0-0.7,0.3-0.7,0.7c0,0.4,0.3,0.7,0.7,0.7h3.3
+			c3.7,0,6.8-3,6.8-6.8C88.2,107.5,85.2,104.5,81.5,104.5z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 94.75 112.75)" class="st10 st4 st13" style="text-decoration: underline;">back</text>
+</svg>

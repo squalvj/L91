@@ -6,9 +6,10 @@ const init = () => {
     // set fix navbar
     setSidebarFixed()
 
-    // back article when responsive
+    // back article in mobile
     backArticle()
 
+    // article click in mobile
     articleClick()
 }
 
